@@ -7,9 +7,9 @@ In this project, we will create an app that will take in scores of points from e
 In this project we will cover the following topics:
 - **Displaying Multiple Layout Views**
 - **Fundamentals of Java**
-- **Adding onClick functions **
+- **Adding onClick functions**
 - **Updating views**
--**Changing Color Pallet Theme**
+- **Changing Color Pallet Theme**
 
 Assets used by **NO ASSETS IN THIS PROJECT**.
 
